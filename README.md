@@ -1,4 +1,4 @@
-# wish-ui
+# beauty-ui
 
 ## Project setup
 ```
