@@ -1,10 +1,7 @@
 # 忽略目录
 examples/
 node_modules/
-packages/
 public/
-scripts/
-themes/
 
 # 忽略指定文件
 .browserslistrc
